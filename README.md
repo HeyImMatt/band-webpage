@@ -1,5 +1,5 @@
 
-# _ Jimi Hendrixx Experince Website_
+# Jimi Hendrixx Experince Website
 
 #### _Learn about the Jimi Hendrixx Experience. 5/28/2020_
 
