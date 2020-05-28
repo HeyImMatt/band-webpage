@@ -13,7 +13,7 @@ _This is a band website we made for the Epicodus lesson Practice: Box Model. It 
 
 * _Clone the repository to your machine_
 * _Open the repository directory in VS Code to make changes_
-* _Open the index.html page in any browser to view_*
+* _Open the index.html page in any browser to view_
 
 ## Support and contact details
 
